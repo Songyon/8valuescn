@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "斯大林主义/毛主义",
+        "name": "斯大林主义",
         "stats": {
             "econ": 100,
             "dipl": 20,
