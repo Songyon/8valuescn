@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+        "question": "企业的压迫比政府的压迫更令人担忧。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "It is necessary for the government to intervene in the economy to protect consumers.",
+        "question": "政府有必要对经济进行干预，以保护消费者。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the markets, the freer the people.",
+        "question": "市场越自由，人民就越自由。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
+        "question": "与其确保所有公民的福利，不如保持预算平衡。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "Publicly-funded research is more beneficial to the people than leaving it to the market.",
+        "question": "政府资助的研究比交给市场进行的研究对人民更有利。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "Tariffs on international trade are important to encourage local production.",
+        "question": "国际贸易关税对于鼓励本地生产非常重要。",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "各尽所能，各取所需。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "It would be best if social programs were abolished in favor of private charity.",
+        "question": "最好的办法是废除社会计划，转而实行私人慈善。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Taxes should be increased on the rich to provide for the poor.",
+        "question": "应该增加富人的税收，以救济穷人。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "继承遗产是一种合法的财富形式。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Basic utilities like roads and electricity should be publicly owned.",
+        "question": "道路和电力等基本公用事业应为公有。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Government intervention is a threat to the economy.",
+        "question": "政府干预是对经济的威胁。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "Those with a greater ability to pay should receive better healthcare.",
+        "question": "支付能力更强的人应该得到更好的医疗服务。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "Quality education is a right of all people.",
+        "question": "接受优质教育是所有人的权利。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "The means of production should belong to the workers who use them.",
+        "question": "生产资料应属于使用它们的工人。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "The United Nations should be abolished.",
+        "question": "联合国应该被废除。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "Military action by our nation is often necessary to protect it.",
+        "question": "为了保护祖国，我们国家的军事行动往往是必要的。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "I support regional unions, such as the European Union.",
+        "question": "我支持区域联盟，比如欧盟。",
         "effect": {
             "econ": -5,
             "dipl": 10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our national sovereignty.",
+        "question": "维护我国国家主权非常重要。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "A united world government would be beneficial to mankind.",
+        "question": "一个统一的世界政府将造福人类。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "It is more important to retain peaceful relations than to further our strength.",
+        "question": "保持和平关系比增强我们的实力更重要。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "Wars do not need to be justified to other countries.",
+        "question": "战争不需要向其他国家证明其合理性。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": "军费开支是一种浪费。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "国际援助是一种浪费。",
         "effect": {
             "econ": -5,
             "dipl": -10,
@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "我的民族是伟大的。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -225,7 +225,7 @@ questions = [
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "研究工作应在国际范围内进行。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "各国政府应向国际社会负责。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -243,7 +243,7 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "即使是抗议专制政府，暴力也是不可接受的。",
         "effect": {
             "econ": 0,
             "dipl": 5,
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "我的宗教价值观应得到尽可能广泛的传播。",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "我的民族的价值观应尽可能广泛传播。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "维护法律和秩序非常重要。",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "普通民众会做出错误的决策。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "安乐死应该合法。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "为了保护我们免受恐怖主义行为的侵害，牺牲一些公民自由是必要的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "在现代社会，政府监督是必要的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "国家的存在本身就是对我们自由的一种威胁。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "无论政治观点如何，重要的是要支持自己的国家。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "一切权威都应受到质疑。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "等级制度的国家是最好的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "重要的是，政府要听从多数人的意见，即使多数人是错误的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "The stronger the leadership, the better.",
+        "question": "领导力越强越好。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -369,7 +369,7 @@ questions = [
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "民主不仅仅是一个决策过程。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "Environmental regulations are essential.",
+        "question": "环境法规至关重要。",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "自动化与科技将创造更美好的世界。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "儿童应接受宗教或传统价值观教育。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -405,7 +405,7 @@ questions = [
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "传统本身并没有任何价值。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "宗教应在政府中发挥作用。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "教会应与其他机构一样纳税。",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -432,7 +432,7 @@ questions = [
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "气候变化是目前我们生活方式面临的最大威胁之一。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we work as a united world to combat climate change.",
+        "question": "世界应该团结一致，共同应对气候变化。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -450,7 +450,7 @@ questions = [
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "多年前的社会比现在好。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -459,7 +459,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "我们必须保持过去的传统。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -468,7 +468,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
+        "question": "我们要从长远考虑，超越我们的寿命。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -477,7 +477,7 @@ questions = [
         }
     },
     {
-        "question": "Reason is more important than maintaining our culture.",
+        "question": "理性比维护我们的文化更重要。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -486,7 +486,7 @@ questions = [
         }
     },
     {
-        "question": "Drug use should be legalized or decriminalized.",
+        "question": "吸毒应合法化或非刑事化。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -495,7 +495,7 @@ questions = [
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "同性婚姻应合法化。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -504,7 +504,7 @@ questions = [
         }
     },
     {
-        "question": "No cultures are superior to others.",
+        "question": "没有哪种文化比其他文化更优越。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -513,7 +513,7 @@ questions = [
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "婚外性行为是不道德的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -522,7 +522,7 @@ questions = [
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "如果我们接受移民，移民就必须融入我们的文化。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -531,7 +531,7 @@ questions = [
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
+        "question": "大多数或所有情况下都应禁止堕胎。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -540,7 +540,7 @@ questions = [
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "应该禁止那些没有正当理由的人拥有枪支。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -549,7 +549,7 @@ questions = [
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "我支持单人付费的全民医疗保健。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -558,7 +558,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "卖淫应该非法。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -567,7 +567,7 @@ questions = [
         }
     },
     {
-        "question": "Maintaining family values is essential.",
+        "question": "维护家庭价值观至关重要。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -576,7 +576,7 @@ questions = [
         }
     },
     {
-        "question": "To chase progress at all costs is dangerous.",
+        "question": "不惜一切代价追求进步是危险的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -585,7 +585,7 @@ questions = [
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "基因改造是一种有益的力量，即使对人类也是如此。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -594,7 +594,7 @@ questions = [
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "我们应该向移民开放边境。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -603,7 +603,7 @@ questions = [
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "各国政府应该像关心本国公民一样关心外国人。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -612,7 +612,7 @@ questions = [
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "无论文化或性取向等因素如何，所有人都应受到平等对待。",
         "effect": {
             "econ": 10,
             "dipl": 10,
@@ -621,7 +621,7 @@ questions = [
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "最重要的是我们要实现我们团队的目标。",
         "effect": {
             "econ": -10,
             "dipl": -10,
